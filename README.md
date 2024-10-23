@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+CyberSec Student and enthusiast that wants to learn even more.
+
 <!--
 **birb97/birb97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
